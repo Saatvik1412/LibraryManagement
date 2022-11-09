@@ -217,19 +217,19 @@ anim(x){
           <div className="Year">
           <label>Year</label>
           <div>
-            <input type="checkbox" id="vehicle1" className="chk"/>
+            <input type="checkbox" className="chk"/>
             <label>Before 2000  &nbsp; (15)</label>
             </div>
             <div>
-            <input type="checkbox" id="vehicle1" className="chk"/>
+            <input type="checkbox" className="chk"/>
             <label> 2001-2010 &nbsp; (7)</label>
             </div>
             <div>
-            <input type="checkbox" id="vehicle1" className="chk"/>
+            <input type="checkbox" className="chk"/>
             <label> 2011-2015 &nbsp; (7)</label>
             </div>
             <div>
-            <input type="checkbox" id="vehicle1" className="chk"/>
+            <input type="checkbox" className="chk"/>
             <label> 2016-2020 &nbsp; (1)</label>
             </div>
           </div>
